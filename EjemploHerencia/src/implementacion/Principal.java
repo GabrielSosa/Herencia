@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import clases.Alumno;
 import clases.Carrera;
 import clases.Maestro;
-import clases.Perso
+import clases.Persona;
 
 // esta es una prueba para ver el commit
 public class Principal {
