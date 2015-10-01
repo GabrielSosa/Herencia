@@ -5,8 +5,9 @@ import java.util.ArrayList;
 import clases.Alumno;
 import clases.Carrera;
 import clases.Maestro;
-import clases.Persona;
+import clases.Perso
 
+// esta es una prueba para ver el commit
 public class Principal {
 
 	public static void main(String[] args) {
